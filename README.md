@@ -19,5 +19,5 @@ ResNet Initial Training:
 
 Initial Training Results:
 ![initial_model_results](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/af5abf6e-33f1-4462-84ae-24818a1b674b)
-3. Model Finetuning and Optimization
-4. Ensembling and Results
+ 3. Model Finetuning and Optimization
+ 4. Ensembling and Results
