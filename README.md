@@ -7,6 +7,7 @@ Link to Download Training Data: https://s3.amazonaws.com/google-landmark/metadat
 
 Steps Followed:
 1. Data Preparation
+ 
 2. Model Selection
 
 2 models have been chosen for this pre-training phase and both of them won at least once the Large Scale Visual Recognition Challenge (ILSVRC) based on the ImageNet database, namely VGG-16 and ResNet.
@@ -19,5 +20,7 @@ ResNet Initial Training:
 
 Initial Training Results:
 ![initial_model_results](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/af5abf6e-33f1-4462-84ae-24818a1b674b)
+
  3. Model Finetuning and Optimization
+ 
  4. Ensembling and Results
