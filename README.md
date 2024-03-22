@@ -24,6 +24,7 @@ Initial Training Results:
  3. Model Finetuning and Optimization
 
 Finetuning VGG-16:
+
 ![finetuned_vgg16](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/a2220956-5a5c-4f71-90e2-b08437e81ff9)
 
 ![finetuned_vgg16_top](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/777e98ae-ea8a-44d5-a7d7-b79d634e87e2)
@@ -37,6 +38,7 @@ Finetuning VGG-16:
 Final Testing Accuracy for VGG-16: 72.73%
 
 Finetuning ResNet:
+
 ![finetuned_resnet](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/63161388-48b1-459d-8f4e-cd0ab05624c0)
 
 ![finetuned_resnet_top_training](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/354a66f8-94b8-41fc-98e5-49f45c95dd6c)
