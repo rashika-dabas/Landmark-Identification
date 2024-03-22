@@ -7,7 +7,9 @@ Link to Download Training Data: https://s3.amazonaws.com/google-landmark/metadat
 
 Steps Followed:
 1. Data Preparation
- 
+
+![prepared_dataset](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/0e03ef65-d908-49f8-b772-6714006c43f0)
+
 2. Model Selection
 
 2 models have been chosen for this pre-training phase and both of them won at least once the Large Scale Visual Recognition Challenge (ILSVRC) based on the ImageNet database, namely VGG-16 and ResNet.
@@ -21,7 +23,7 @@ ResNet Initial Training:
 Initial Training Results:
 ![initial_model_results](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/49006564-f0ca-4702-ab76-00fcc1004e05)
 
- 3. Model Finetuning and Optimization
+3. Model Finetuning and Optimization
 
 Finetuning VGG-16:
 
@@ -47,8 +49,10 @@ Finetuning ResNet:
 
 Final Testing Accuracy for ResNet: 63.64%
 
- 5. Ensembling and Results
+4. Ensembling and Results
+
 Ensembling Inputs:
+
 ![emsembling_inputs](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/bce5d3ef-50b0-4d7d-ac0f-65cc11bb06e0)
 
 Final Testing Accuracy After Ensembling Using Average: 72.73%
