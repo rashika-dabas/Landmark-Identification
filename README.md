@@ -27,17 +27,17 @@ Initial Training Results:
 
 Finetuning VGG-16:
 
-![finetuned_vgg16](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/a2220956-5a5c-4f71-90e2-b08437e81ff9)
+![finetuned_vgg16](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/d444cfa2-f157-45ad-92fd-b2fb8350eeff)
 
-![finetuned_vgg16_top](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/777e98ae-ea8a-44d5-a7d7-b79d634e87e2)
+![finetuned_vgg16_top](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/9e342b6d-f4b8-4496-a188-493b7931af8e)
 
-![finetuned_vgg16_top_training](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/1aedb610-1e7d-469f-b2b9-533b1682fb84)
+![finetuned_vgg16_top_training](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/1ec7f00c-1ab9-4050-a74a-8e5f8a22c492)
 
-![finetuned_vgg16_top_training_plots](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/434d741d-5564-46b6-a059-84b845534365)
+![finetuned_vgg16_top_training_plots](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/2867fcc3-3057-44e4-a150-0428e23fd759)
 
-![finetuned_vgg16_complete](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/e160c5eb-9395-41e9-b8a0-a031d82bfa8c)
+![finetuned_vgg16_complete](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/6f120750-af3c-41a9-8db9-5aca65a8e829)
 
-Final Testing Accuracy for VGG-16: 72.73%
+Final Testing Accuracy for VGG-16: 90.91%
 
 Finetuning ResNet:
 
@@ -55,6 +55,6 @@ Link to Access Final Models: https://www.kaggle.com/models/rashikadabas/landmark
 
 Ensembling Inputs:
 
-![emsembling_inputs](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/bce5d3ef-50b0-4d7d-ac0f-65cc11bb06e0)
+![emsembling_inputs](https://github.com/rashika-dabas/Landmark-Identification/assets/77570881/b01f2462-c8ac-43c4-a1a3-fbc6ef0c8c37)
 
 Final Testing Accuracy After Ensembling Using Average: 72.73%
