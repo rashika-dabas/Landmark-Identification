@@ -49,6 +49,8 @@ Finetuning ResNet:
 
 Final Testing Accuracy for ResNet: 63.64%
 
+Link to Access Final Models: https://www.kaggle.com/models/rashikadabas/landmark-identification-models
+
 4. Ensembling and Results
 
 Ensembling Inputs:
